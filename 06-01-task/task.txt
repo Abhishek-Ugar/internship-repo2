@@ -14,6 +14,8 @@ Else → Not Eligible
 Expected Output
 The function should return eligibility status and display reason.
 
+_____________________________________________________________________________________________________
+
 Concepts Tested
 Function definition, parameters, return statement
 
@@ -36,6 +38,8 @@ After 10:00 AM → Absent
 
 Expected Output
 Return attendance status.
+
+_______________________________________________________________________________________________________
 
 Used in HR & biometric systems
 [5:56 pm, 06/01/2026] +91 87225 01425: ASSIGNMENT 3: Electricity Bill Calculation Function
