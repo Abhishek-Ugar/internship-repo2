@@ -1,65 +1,3 @@
-[5:56 pm, 06/01/2026] +91 87225 01425: ASSIGNMENT 1: Intern Eligibility Evaluation Function
-Business Scenario 
-
-Digital Dreams HR wants to standardize intern eligibility checking using reusable functions.
-Task
-Create a function:
-
-Python check_intern_eligibility(age, percentage)
-
-Function Logic
-If age ≥ 18 and percentage ≥ 60 → Eligible
-Else → Not Eligible
-
-Expected Output
-The function should return eligibility status and display reason.
-
-_____________________________________________________________________________________________________
-
-Concepts Tested
-Function definition, parameters, return statement
-
-Industry relevance: HR automation logic
-[5:56 pm, 06/01/2026] +91 87225 01425: ASSIGNMENT 2: Attendance Status Function 
-
-Business Scenario
-Digital Dreams wants to automatically decide attendance status based on login time.
-
-Task
-Create a function:
-Copy code
-Python
-check_attendance(login_time)
-
-Rules
-Login before 9:30 AM → Present
-Login between 9:30–10:00 AM → Late
-After 10:00 AM → Absent
-
-Expected Output
-Return attendance status.
-
-_______________________________________________________________________________________________________
-
-Used in HR & biometric systems
-[5:56 pm, 06/01/2026] +91 87225 01425: ASSIGNMENT 3: Electricity Bill Calculation Function
-
-Business Scenario
-A utility company needs a billing function
-
- Task
-Create a function:
-
-calculate_electricity_bill(units)
-
-Billing Rules
-First 100 units → ₹2/unit
-Next 100 units → ₹4/unit
-Above 200 units → ₹6/unit
-
-Expected Output
-Return total bill amount.
-
 Used in billing & finance applications
 [5:56 pm, 06/01/2026] +91 87225 01425: ASSIGNMENT 4: Password Strength Checker Function
 
@@ -81,6 +19,8 @@ Contain one special character
 Expected Output
 
 Return Strong / Weak Password with reason.
+
+-------------------------------------------------------------------------------------
 
 Used in authentication & security
 [5:56 pm, 06/01/2026] +91 87225 01425: ASSIGNMENT 5: Product Discount Function
