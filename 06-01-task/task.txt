@@ -32,6 +32,8 @@ An e-commerce company applies dynamic discounts.
 Create a function:
 calculate_discount(price, customer_type)
 
+5/100 * price
+
 Discount Rules
 Regular → 5%
 Premium → 15%
