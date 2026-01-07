@@ -10,5 +10,6 @@ def bill(units):
         print(res)
     else:
         print("enter valid input..!")
+        
 
-bill(int(input()))
+
